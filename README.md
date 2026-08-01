@@ -9,7 +9,7 @@ Welcome to **Rock-Paper-Scissors Showdown!** 💥 An autonomous battle royale si
 ![Rock Paper Scissors Simulation Teaser](assets/rps_demo.gif)
 
 > 🎬 **Want to watch the full high-definition trailer?**  
-> Check out the complete video showcase: [RPS_Trailer.mp4](file:///d:/Akhil's/Creativity/My%20Work/Coding/Rock%20Paper%20Scissors/RPS_Trailer.mp4)
+> Check out the complete video showcase: [RPS_Trailer.mp4](RPS_Trailer.mp4)
 
 ---
 
